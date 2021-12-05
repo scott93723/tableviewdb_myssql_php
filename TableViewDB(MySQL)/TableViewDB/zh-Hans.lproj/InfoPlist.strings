@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  TableViewDB
+
+  Created by pkmumu on 2021/11/24.
+  
+*/
+"AddNew" = "新增";
+"Edit" = "编辑";
+"CFBundleDisplayName" = "我的数据库";
+"NSCameraUsageDescription" = "拍照以更换大头照";

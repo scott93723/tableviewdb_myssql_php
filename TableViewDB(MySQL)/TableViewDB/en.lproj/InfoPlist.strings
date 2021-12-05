@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  TableViewDB
+
+  Created by pkmumu on 2021/11/24.
+  
+*/
+"AddNew" = "Add New";
+"Edit" = "Edit";
+"CFBundleDisplayName" = "My DB";
+"NSCameraUsageDescription" = "Take a photo to change your picture.";
